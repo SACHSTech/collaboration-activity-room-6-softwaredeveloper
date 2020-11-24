@@ -10,4 +10,4 @@ Software developer with experience in e-commerce, enterprise and high-performanc
 High-performance technologist skilled at defining, designing and implementing a highly secure, continuous-deployment pipeline to update applications in cloud environments.
 Quality engineer bringing a strong focus on “voice of the customer” into the software development function to ensure product and customer success.
 
-Development Methods & Tools
+### Development Methods & Tools
